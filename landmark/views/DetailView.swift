@@ -49,3 +49,4 @@ struct DetailView: View {
         DetailView(item: sudburyNickel)
     }
 }
+

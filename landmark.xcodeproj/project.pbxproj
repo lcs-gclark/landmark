@@ -12,6 +12,7 @@
 		6FCC85B42B6986A5009F4191 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6FCC85B32B6986A5009F4191 /* Preview Assets.xcassets */; };
 		6FCC85BC2B6987EA009F4191 /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6FCC85BB2B6987EA009F4191 /* DetailView.swift */; };
 		6FCC85BF2B698B40009F4191 /* Landmark.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6FCC85BE2B698B40009F4191 /* Landmark.swift */; };
+		6FCC85C12B6D2BA0009F4191 /* ListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6FCC85C02B6D2BA0009F4191 /* ListView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		6FCC85B32B6986A5009F4191 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		6FCC85BB2B6987EA009F4191 /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
 		6FCC85BE2B698B40009F4191 /* Landmark.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Landmark.swift; sourceTree = "<group>"; };
+		6FCC85C02B6D2BA0009F4191 /* ListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +76,7 @@
 			isa = PBXGroup;
 			children = (
 				6FCC85BB2B6987EA009F4191 /* DetailView.swift */,
+				6FCC85C02B6D2BA0009F4191 /* ListView.swift */,
 			);
 			path = views;
 			sourceTree = "<group>";
@@ -156,6 +159,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6FCC85C12B6D2BA0009F4191 /* ListView.swift in Sources */,
 				6FCC85AD2B6986A3009F4191 /* landmarkApp.swift in Sources */,
 				6FCC85BC2B6987EA009F4191 /* DetailView.swift in Sources */,
 				6FCC85BF2B698B40009F4191 /* Landmark.swift in Sources */,
